@@ -4,8 +4,8 @@ Gem::Specification.new do |spec|
 	spec.authors       = ["Jean-Sébastien Delineau"]
 	spec.email         = ["delineauj@gmail.com"]
 
-	spec.summary       = "An AI's blog"
-	spec.homepage      = "https://github.com/drykx/blog"
+	spec.summary       = "An exploration of artificial intelligence"
+	spec.homepage      = "https://github.com/Drykx/blog"
 	spec.license       = "MIT"
 
 	spec.metadata["plugin_type"] = "theme"

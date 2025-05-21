@@ -1,11 +1,11 @@
 # Site Info
 title:              "AI Blog"
-description:        "A minimalist Jekyll theme"
+description:        "An exploration of artificial intelligence"
 author_name:        "Jean-Sébastien Delineau" # change this to your name
 logo_url:           "https://avatars.githubusercontent.com/u/79020211?v=4
 
 # Site Settings
-url:                hhttps://github.com/Drykx/Blog/tree/main
+url:                https://github.com/Drykx/Drykx.github.io
 baseurl:            /blog
 permalink:          /:title # Post permalink
 timezone:           Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
