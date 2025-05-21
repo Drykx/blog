@@ -5,6 +5,6 @@ Not because I presume to produce work as profound as theirs, but because their r
 
 Their blogs are a major reason why I’m now deeply involved in AI research. Like them, I hope to explain in a clear and concise way, that is accessible to a broader audience. Which I hope will give back to the community a fraction of what I received from it.
 
-# Miscellaneous
+### Miscellaneous
 
 [template](https://github.com/heiswayi/the-plain/tree/master#)
