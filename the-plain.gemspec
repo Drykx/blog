@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-	spec.name          = "blog"
+	spec.name          = "AI blog"
 	spec.version       = "4.0.0"
 	spec.authors       = ["Jean-Sébastien Delineau"]
 	spec.email         = ["delineauj@gmail.com"]
