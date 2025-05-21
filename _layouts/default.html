@@ -1,19 +1,25 @@
+---
+layout: compress
+published: true
+---
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-  {% include head.html %}
+	<head>
+		{% include head.html %}
+	</head>
 
-    <body>
+	<body>
 
-    {% include header.html %}
+		{% include header.html %}
 
-    <div class="page-content">
-      <div class="wrap">
-      {{ content }}
-      </div>
-    </div>
+		<div id="content">
+			{{ content }}
+		</div>
 
-    {% include footer.html %}
+		{% include footer.html %}
 
-    </body>
+	</body>
+
 </html>
