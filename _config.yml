@@ -1,0 +1,17 @@
+# Site settings
+title: Jean-Sébastien Delineau's blog
+email: delineauj@gmail.com
+description: "Artificial Intelligence's blog"
+baseurl: ""
+url: "http://Drykx.github.io"
+github_username:  Drykx
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
