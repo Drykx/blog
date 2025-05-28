@@ -1,10 +1,10 @@
 Gem::Specification.new do |spec|
-	spec.name          = "AI blog"
+	spec.name          = "The Bias Problem"
 	spec.version       = "4.0.0"
 	spec.authors       = ["Jean-Sébastien Delineau"]
 	spec.email         = ["delineauj@gmail.com"]
 
-	spec.summary       = "An exploration of artificial intelligence"
+	spec.summary       = "An exploration of artificial general intelligence"
 	spec.homepage      = "https://github.com/Drykx/blog"
 	spec.license       = "MIT"
 

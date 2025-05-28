@@ -243,6 +243,24 @@ article {
     text-align: center;
     margin: 0 auto;
   }
+  blockquote.center p {
+  text-align: center; // Ensures paragraphs within a centered blockquote also center their text
+}
+// If you want to make the blockquote itself narrower and centered on the page:
+blockquote.custom-centered-poem {
+  display: block; // blockquote is already block
+  text-align: center; // Center the text inside
+  max-width: 70%;   // Or a specific width like '30em' or '400px'
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.5em;    // From your original blockquote style
+  margin-bottom: 1.5em; // From your original blockquote style
+  // Keep other blockquote styles like border and padding as desired,
+  // or re-declare them here if this class should override them.
+  border-left: 3px solid #7a7a7a; // from existing blockquote style
+  padding: 0.5em 10px;         // from existing blockquote style
+  font-size: 1.1em;            // from existing blockquote style
+}
   hr {
     border: 0;
     border-bottom: 1px solid #000;
